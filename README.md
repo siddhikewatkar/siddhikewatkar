@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @siddhikewatkar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fronted development
+- 👀 I’m interested in Business Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me siddhikewatkar27@gmail.com
 - 😄 Pronouns: ...
